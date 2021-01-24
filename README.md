@@ -19,4 +19,4 @@ nous avons recontrées un souci au niveaux du chargement de l'icon , en ne peut 
 
 Nous somme actuellment entrain d'etudier sur ce bug  et nous vous publieron une mise a jour des que nous avons trouver la solution .
 
-Prochaine mise à jour le: 12/01/ 2021 
+Prochaine mise à jour le: 12/02/2021
