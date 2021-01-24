@@ -13,6 +13,10 @@ Mise à jour publier le 21/01/2021
 
 2. Problème connu dans la mise a  jour
 
-a ce jour aucune erreur ou bug a etais decouvert.
+1. probléme de l'icon : 
 
-Prochaine mise à jour le: 12/01/2021
+nous avons recontrées un souci au niveaux du chargement de l'icon , en ne peut pas appercevoir l'icon de l application  en haut de la fênetre , et nous met par defaut l icon génerez par python . 
+
+Nous somme actuellment entrain d'etudier sur ce bug  et nous vous publieron une mise a jour des que nous avons trouver la solution .
+
+Prochaine mise à jour le: 12/01/ 2021 
