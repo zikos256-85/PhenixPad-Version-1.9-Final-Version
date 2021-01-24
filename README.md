@@ -11,7 +11,7 @@ Mise à jour publier le 21/01/2021
 
 . Amélioration du système sur la reconnaissance de fichier, Amélioration du centre d'aide, Amélioration de la fonctionalitée développer, Amélioration de la fonctionnalité standard du bloc note.
 
-2. Problème connu dans la c'ette mise à jour:
+2. Problème connu dans la mise a  jour
 
 a ce jour aucune erreur ou bug a etais decouvert.
 
