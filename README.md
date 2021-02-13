@@ -19,4 +19,4 @@ nous avons recontrées un souci au niveaux du chargement de l'icon , en ne peut 
 
 Nous somme actuellment entrain d'etudier sur ce bug  et nous vous publieron une mise a jour des que nous avons trouver la solution .
 
-Prochaine mise à jour le: 12/02/2021
+La nouvelle version 1.9.2 et enfin disponible pour que vous puissez vous la procurez cliquez juste ici : https://github.com/zikos256-85/Phenixpad-Version-1.9.2
