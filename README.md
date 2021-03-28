@@ -13,10 +13,6 @@ Mise à jour publier le 21/01/2021
 
 2. Problème connu dans la mise a  jour
 
-1. probléme de l'icon : 
-
-nous avons recontrées un souci au niveaux du chargement de l'icon , en ne peut pas appercevoir l'icon de l application  en haut de la fênetre , et nous met par defaut l icon génerez par python . 
-
-Nous somme actuellment entrain d'etudier sur ce bug  et nous vous publieron une mise a jour des que nous avons trouver la solution .
+- À ce jour aucun problème à était détectée dans cette mise à jour.
 
 La nouvelle version 1.9.2 et enfin disponible pour que vous puissez vous la procurez cliquez juste ici : https://github.com/zikos256-85/Phenixpad-Version-1.9.2
